@@ -32,13 +32,13 @@ const Home=()=>{
                 <div className="test-card">
                     <div className="contentBx">
                         <h2>Javascript Test</h2>
-                        <Link className='size' to='/tests/javascript'>Get Started</Link>
+                        <Link className='size' to='/dataForm/javascript'>Get Started</Link>
                     </div>
                 </div>
                 <div className="test-card">
                     <div className="contentBx">
                         <h2>SQL Test</h2>
-                        <Link className='size' to='/tests/sql'>Get Started</Link>
+                        <Link className='size' to='/dataForm/sql'>Get Started</Link>
                     </div>
                 </div>
                 <div className="test-card">
